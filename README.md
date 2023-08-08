@@ -47,9 +47,7 @@ Your expertise can shape this repository! If you're passionate about improving o
 2. 🌱Create a new branch for your feature or fix.
 3. 🎯Commit your changes.
 4. 🚀Push to your branch.
-5. 💌Open a pull request.
+5. 🔍Open a pull request.
 
 ## Acknowledgements
-I would like to express my heartfelt thanks to my supervisors, Dr Vanessa Sousa and Joseph Falconer. Their guidance, patience, and expertise have been essential to the completion of this study. I am also grateful to Natasha Oh, whose collaboration and efforts have significantly contributed to this research.
-
-I would like to express my heartfelt thanks to my supervisors, Dr Vanessa Sousa and Joseph Falconer. Their guidance, patience, and expertise have been essential to the completion of this study. I am also grateful to Natasha Oh, whose collaboration and efforts have significantly contributed to this research.
+A big thank you to Dr Vanessa Sousa and Joseph Falconer as well as Natasha Oh💌
