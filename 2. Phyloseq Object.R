@@ -3,7 +3,9 @@
 # Date: 11/08/2023
 # Author: Arif Ayman
 # Description: Creating the PhyloSeq object
-#-----------------------------------------------------# Set working directory 
+#-----------------------------------------------------
+
+# Set working directory 
 setwd("C:/Users/arifa/OneDrive/Desktop/DissertationCode/ReadCounts")
 
 # Read input files
